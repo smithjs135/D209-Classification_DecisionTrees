@@ -40,7 +40,8 @@ Accuracy is number of true negative plus the number of true positive predictions
 
 Decision trees classification model demonstrated the ability to predict readmission rates 93% of the time based on the groupings of the feature variables. Proactive hospital staff may leverage this model to predict which patients are likely to be readmitted. 
 
-![alt]([cp_readmis](https://github.com/smithjs135/D209-Classification_DecisionTrees/blob/main/cp_readmis.png "")
+![alt_text](https://github.com/smithjs135/D209-Classification_DecisionTrees/blob/main/cp_readmis.png "")
+![alt_text](https://github.com/smithjs135/D209-Classification_DecisionTrees/blob/main/res.jpg "")
 
 ## Recommendations
 Decision trees classification model demonstrated the ability to predict readmission rates 93% of the time based on the groupings of the feature variables. Proactive hospital staff may leverage this model to predict which patients are likely to be readmitted. 
