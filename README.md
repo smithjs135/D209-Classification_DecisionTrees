@@ -26,15 +26,22 @@ The target variable, ‘ReAdmis’, and various features will be fed into the de
 ## Data Preparation
 Decision trees requires text variables to contain numeric data.  The target variable and some of the predictor variables contain text data.  These variables will need to be encoded to numeric values prior to using this data classification technique. 
 
-# Selected variables
-![alt_text](https://user-images.githubusercontent.com/46407407/184523659-af08ad1e-3773-4bb6-a2e6-9278cb395eb1.png "Vars")
+## Selected variables
+![alt_text](https://github.com/smithjs135/D209-Classification_DecisionTrees/blob/main/selected_vars.png)
+
+
+## EDA
+![alt_text](https://github.com/smithjs135/D209-Classification_DecisionTrees/blob/main/cp_vitdsupport.png)
+![alt_text](https://github.com/smithjs135/D209-Classification_DecisionTrees/blob/main/count_plot_docvis.png)
+![alt_text](https://github.com/smithjs135/D209-Classification_DecisionTrees/blob/main/corr_mat.png)
+
 
 ## Results
 Accuracy is number of true negative plus the number of true positive predictions divided by the total number of records. Accuracy scores range from 0 (low) to 1 (high). The accuracy score of this model is 0.93 which demonstrates a high level of accuracy. 
 
 Decision trees classification model demonstrated the ability to predict readmission rates 93% of the time based on the groupings of the feature variables. Proactive hospital staff may leverage this model to predict which patients are likely to be readmitted. 
 
-![alt](cp_readmis
+![alt]([cp_readmis](https://github.com/smithjs135/D209-Classification_DecisionTrees/blob/main/cp_readmis.png)
 
 ## Recommendations
 Decision trees classification model demonstrated the ability to predict readmission rates 93% of the time based on the groupings of the feature variables. Proactive hospital staff may leverage this model to predict which patients are likely to be readmitted. 
